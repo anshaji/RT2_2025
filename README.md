@@ -5,7 +5,7 @@ Dictated by Fernando Hoces de la Guardia
 
 **Thursday May 11**
 - [Intro to Version Control](https://github.com/BITSS/CEGA2023/blob/main/slides_git.pdf)
-- [Intro to Dynamic Docuemtns](https://github.com/BITSS/CEGA2023/blob/main/slides_dd.pdf)
+- [Intro to Dynamic Documents](https://github.com/BITSS/CEGA2023/blob/main/slides_dd.pdf)
 
 
 
