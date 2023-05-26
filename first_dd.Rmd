@@ -11,7 +11,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 set.seed(1234)
-n.pers = 16
+n.pers = 30
 n.sims = 10000
 ```
 
@@ -64,7 +64,7 @@ birthday.prob = function(n.pers_var, n.sims_var) {
   result = 1 - mean(all.different)
 return(result)
 }
-bp_sim = birthday.prob(n.pers_var = 21, n.sims_var = 10000)
+bp_sim = birthday.prob(n.pers_var = n.pers, n.sims_var = 10000)
 print(bp_sim)
 ```
 
