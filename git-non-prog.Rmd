@@ -2,7 +2,7 @@
 title: "Git for Non-Programmers"
 author: "Fernando Hoces de la Guardia, BITSS"
 subtitle: "CEGA EASST Fellows Training"
-date:  "`r format(as.Date('2023-11-03'), '%d %B %Y')`"
+date:  "`r format(as.Date('2023-11-03'), '%d %B %Y')` , [Slides](https://bitss.github.io/CEGA2023/)"
 output: 
   xaringan::moon_reader:
     footer: "These slides available at https://bitss.github.io/CEGA2023/"
