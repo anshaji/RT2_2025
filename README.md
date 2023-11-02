@@ -3,7 +3,7 @@ Repository for CEGA EASST Fellows Trainning on Research Transparency.
 Dictated by Fernando Hoces de la Guardia
 
 
-**Thursday May 11**
+**Thursday May 11 and Nov 3**
 - [Intro to Version Control](https://github.com/BITSS/CEGA2023/blob/main/slides_git.pdf)
 - [Intro to Dynamic Documents](https://github.com/BITSS/CEGA2023/blob/main/slides_dd.pdf)
 
