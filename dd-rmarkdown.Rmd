@@ -2,10 +2,10 @@
 title: "Dynamic Documents using R: Hands-On"
 author: "Fernando Hoces de la Guardia, BITSS"
 subtitle: "CEGA EASST Fellows Training"
-date:  "`r format(as.Date('2023-05-11'), '%d %B %Y')`"
+date:  "`r format(as.Date('2023-11-03'), '%d %B %Y')`"
 output: 
   xaringan::moon_reader:
-    footer: "These slides available at https://bitss.github.io/CEGA2022/"
+    footer: "These slides available at https://bitss.github.io/CEGA2023/"
     css: [default, metropolis, metropolis-fonts] 
     lib_dir: libs
     nature:
@@ -661,5 +661,5 @@ here goes the code
 ]
 
 ```{r gen_pdf, include = FALSE, cache = FALSE, eval = TRUE}
-pagedown::chrome_print("dd-rmarkdown.html", output = "slides_dd.pdf")
+pagedown::chrome_print("dd-rmarkdown.html", output = "dd-rmarkdown.pdf")
 ```
