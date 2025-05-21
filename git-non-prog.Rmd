@@ -573,5 +573,4 @@ Some good habits:
 
 
 ```{r gen_pdf, include = FALSE, cache = FALSE, eval = TRUE}
-pagedown::chrome_print("git-non-prog.html", output = "slides_git.pdf")
 ```
